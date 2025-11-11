@@ -1,0 +1,4 @@
+title,summary,file_path,arxiv_id,author_full_name,author_title
+"Scaling Agent Learning via Experience Synthesis","Introduces DreamGym, a framework that scales reinforcement learning for large language model agents using synthetic experiences.","papers/Scaling Agent Learning via Experience Synthesis.pdf","arXiv:2511.03773","Zhaorun Chen","Dr."
+"How Different Tokenization Algorithms Impact LLMs and Transformer Models for Binary Code Analysis","Analyzes how tokenizer design affects language model performance in binary code analysis tasks.","papers/How Different Tokenization Algorithms Impact.pdf","arXiv:2511.03825","Ahmed Mostafa","Prof."
+"To See or To Read: User Behavior Reasoning in Large Vision-Language Models","Explores how users interact with vision-language models, examining behavioral reasoning and multimodal understanding.","papers/To See or To Read User Behavior Reasoning in.pdf","arXiv:2511.03792","Xinyue Wei","Dr."

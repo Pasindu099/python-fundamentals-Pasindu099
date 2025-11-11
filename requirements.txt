@@ -1,0 +1,9 @@
+SQLAlchemy>=2.0
+pymysql>=1.1
+python-dotenv>=1.0
+mongoengine>=0.28
+pymongo>=4.8
+pdfplumber>=0.11
+typing-extensions>=4.12
+mypy>=1.11
+ruff>=0.6
